@@ -1,0 +1,60 @@
+{
+  "payments": [
+    {
+      "id": 1,
+      "amount": 500,
+      "loanTerm": 1,
+      "typeTerms": "Monthly",
+      "status": "Unpaid"
+    },
+    {
+      "id": 2,
+      "amount": 700,
+      "loanTerm": 2,
+      "typeTerms": "Monthly",
+      "status": "Repaid"
+    },
+    {
+      "id": 3,
+      "amount": 70,
+      "loanTerm": 2,
+      "typeTerms": "Monthly",
+      "status": "Unpaid"
+    },
+    {
+      "amount": 70,
+      "loanTerm": 2,
+      "typeTerms": "Monthly",
+      "status": "Unpaid",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "amount": 500,
+      "loanTerm": 5,
+      "typeTerms": "Monthly",
+      "status": "Unpaid"
+    },
+    {
+      "amount": 850,
+      "loanTerm": 1,
+      "typeTerms": "Monthly",
+      "status": "Unpaid",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "amount": 5,
+      "loanTerm": 2,
+      "typeTerms": "Monthly",
+      "status": "Unpaid"
+    },
+    {
+      "id": 8,
+      "amount": 5000,
+      "loanTerm": 2,
+      "typeTerms": "Monthly",
+      "status": "Unpaid"
+    }
+  ]
+}
